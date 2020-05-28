@@ -93,3 +93,9 @@ export const TableContainer = styled.section`
     }
   }
 `;
+
+export const TableEmpty = styled.p`
+  font-size: 30px;
+  color: #ff872c;
+  font-weight: 700;
+`;
